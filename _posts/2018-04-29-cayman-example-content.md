@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Example content"
+title: "cayman example content"
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
